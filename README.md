@@ -1,1 +1,2 @@
-# EmotiveNeuralNetwork
+# Sudoku Resolver (Java)
+
