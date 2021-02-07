@@ -1,2 +1,2 @@
-# Sudoku Resolver (Java)
+# Sudoku solver (Java)
 
